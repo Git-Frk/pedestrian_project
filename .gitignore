@@ -1,3 +1,5 @@
 *.png
 /pedestron model_pretrained/citypersons/epoch_5.pth.stu
 /pedestron model_pretrained/ECP/epoch_147.pth.stu
+/data/citypersons/citypersons data/cp data/annotations/
+/data/eurocity persons/ECP data/ECP /labels/
