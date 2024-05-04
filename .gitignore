@@ -5,3 +5,4 @@
 /data/eurocity persons/ECP data/ECP /labels/
 /data/citypersons/citypersons data/img-ann unpacked/annotations/
 /data/eurocity persons/model validation data/labels/
+*.DS_Store
