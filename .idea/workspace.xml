@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8969c46-a23f-48c9-bfec-409f4e8d541e" name="Changes" comment="modified gitignore" />
+    <list default="true" id="f8969c46-a23f-48c9-bfec-409f4e8d541e" name="Changes" comment="workspace commit">
+      <change afterPath="$PROJECT_DIR$/debugging/.ipynb_checkpoints/Debugging Notebook-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/copy directory_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/copy file_only.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,41 +42,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Doctests in functional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FCRest18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Select DA images.executor&quot;: &quot;Run&quot;,
-    &quot;Python.YOLO image select.executor&quot;: &quot;Run&quot;,
-    &quot;Python.base_optimizer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bc-yolo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.binary_classifier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create label-csv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.crop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dinov2_sim.executor&quot;: &quot;Run&quot;,
-    &quot;Python.filter cosine images.executor&quot;: &quot;Run&quot;,
-    &quot;Python.image_info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.notes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.similarity.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.translated file preparation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.val image name.executor&quot;: &quot;Run&quot;,
-    &quot;Python.validation data preparation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Volumes/Research/PhD/Code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Doctests in functional.executor": "Run",
+    "Python.FCRest18.executor": "Run",
+    "Python.Select DA images.executor": "Run",
+    "Python.YOLO image select.executor": "Run",
+    "Python.base_optimizer.executor": "Run",
+    "Python.bc-yolo.executor": "Run",
+    "Python.binary_classifier.executor": "Run",
+    "Python.copy file_only.executor": "Run",
+    "Python.create label-csv.executor": "Run",
+    "Python.crop.executor": "Run",
+    "Python.dinov2_sim.executor": "Run",
+    "Python.filter cosine images.executor": "Run",
+    "Python.image_info.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.notes.executor": "Run",
+    "Python.similarity.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.translated file preparation.executor": "Run",
+    "Python.val image name.executor": "Run",
+    "Python.validation data preparation.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Volumes/Research/PhD/Code",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="/Volumes/Research/PhD/Code" />
@@ -83,7 +89,7 @@
       <recent name="$PROJECT_DIR$/quantitative analysis/binary classifier/crop_patch script" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dinov2_sim">
+  <component name="RunManager">
     <configuration name="dinov2_sim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PedestrianProject" />
       <option name="ENV_FILES" value="" />
@@ -231,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714853742226</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace commit">
+      <option name="closed" value="true" />
+      <created>1714853947415</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714853947415</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,7 +304,8 @@
     <MESSAGE value="added data folder" />
     <MESSAGE value="ignore .DS_Store" />
     <MESSAGE value="modified gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified gitignore" />
+    <MESSAGE value="workspace commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
